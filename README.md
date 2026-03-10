@@ -1,6 +1,6 @@
 # 📘 Engineering Log
 
-A collection of my engineering practice, Jupyter notebooks, and handwritten notes as I learn Python, NumPy, and other Computer Science concepts.
+A collection of my engineering practice, Jupyter notebooks, and handwritten notes documenting my journey toward becoming an AI/ML Engineer.
 
 ---
 
@@ -11,16 +11,21 @@ engineering-log/
 ├── README.md
 ├── np1.ipynb
 ├── np2.ipynb
+├── np3.ipynb
 ├── notes/
-│   └── numpy_notes_page_1.png
+│   ├── numpy_notes_page_1.png
+│   ├── numpy_notes_page_2.png
+│   └── numpy_notes_page_3.png
 ```
 
 ---
 
 ## 📚 Topics Covered
 
-- Python Fundamentals
-- NumPy
+- Python Programming
+- NumPy Fundamentals
+- Array Creation
+- Array Operations
 - Jupyter Notebook
 
 ---
@@ -31,6 +36,7 @@ engineering-log/
 |----------|-------------|--------|
 | `np1.ipynb` | NumPy practice and experiments | ✅ |
 | `np2.ipynb` | Additional NumPy concepts and exercises | ✅ |
+| `np3.ipynb` | Continued NumPy practice | ✅ |
 
 ---
 
@@ -40,29 +46,31 @@ The `notes/` folder contains handwritten notes related to the notebooks.
 
 Currently available:
 
-- numpy_notes_page_1.png
-- numpy_notes_page_2.png
-- numpy_notes_page_3.png
-
-Currently available:
-
 - `numpy_notes_page_1.png`
+- `numpy_notes_page_2.png`
+- `numpy_notes_page_3.png`
 
 ---
 
 ## 🎯 Learning Goals
 
 - Master Python programming
-- Learn NumPy thoroughly
-- Build a strong foundation for Machine Learning
+- Build a strong foundation in NumPy
+- Develop problem-solving skills
+- Prepare for Machine Learning
 - Maintain a consistent engineering learning log on GitHub
 
 ---
 
 ## 📈 Progress
 
-- [x] NumPy Basics
-- [x] NumPy Practice
+### Python
+- [x] Python Basics
+
+### NumPy
+- [x] Array Creation
+- [x] Array Operations
+- [x] Practice Exercises
 - [ ] Array Indexing
 - [ ] Array Slicing
 - [ ] Boolean Masking
@@ -72,15 +80,11 @@ Currently available:
 - [ ] Linear Algebra
 - [ ] Random Module
 
----
-
-## 🚀 Upcoming Topics
-
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Machine Learning Algorithms
+### Next Topics
+- [ ] Pandas
+- [ ] Matplotlib
+- [ ] Seaborn
+- [ ] Scikit-learn
 
 ---
 
@@ -94,10 +98,21 @@ Currently available:
 
 ---
 
+## 🚀 Repository Purpose
+
+This repository serves as my daily engineering log, where I document:
+- Programming practice
+- Notebook exercises
+- Handwritten notes
+- Learning progress
+- Continuous improvement
+
+---
+
 ## 👨‍💻 Author
 
 **Tanishak**
 
 ---
 
-⭐ This repository is part of my journey toward becoming an AI/ML Engineer through consistent daily practice and documentation.
+⭐ *Learning consistently, one commit at a time.*
