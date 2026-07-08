@@ -1,1 +1,0 @@
-# Tanishak's Engineering Log 
