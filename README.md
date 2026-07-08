@@ -1,18 +1,55 @@
-# Engineering Log
+# 📘 Engineering Log
 
-This repository contains my engineering practice work, including Python notebooks and study notes.
-
-## Contents
-
-- 📒 Jupyter Notebooks
-  - `np1.ipynb`
-
-- 📝 Notes
-  - `notes/1.png`
-git add README.md
-## Purpose
-
-This repository is used to track my learning and coursework in Python, NumPy, and related engineering topics.
+A collection of my engineering practice, programming notebooks, and handwritten notes as I learn Python, NumPy, and other Computer Science concepts.
 
 ---
-Maintained by Tanishak
+
+## 📂 Repository Structure
+
+```
+engineering-log/
+├── README.md
+├── np1.ipynb
+└── notes/
+    └── 1.png
+```
+
+---
+
+## 📚 Topics Covered
+
+- Python
+- NumPy
+- Jupyter Notebook
+
+---
+
+## 📝 Notes
+
+Handwritten notes related to the notebooks are available in the `notes/` folder.
+
+---
+
+## 🚀 Goals
+
+- Strengthen Python programming
+- Master NumPy fundamentals
+- Build consistency through daily practice
+- Maintain a public engineering learning log
+
+---
+
+## 📈 Progress
+
+- [x] NumPy Basics
+- [ ] Array Indexing
+- [ ] Array Slicing
+- [ ] Matrix Operations
+- [ ] Broadcasting
+- [ ] Linear Algebra
+
+---
+
+## 👨‍💻 Author
+
+**Tanishak**
