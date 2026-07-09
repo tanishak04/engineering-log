@@ -40,6 +40,12 @@ The `notes/` folder contains handwritten notes related to the notebooks.
 
 Currently available:
 
+- numpy_notes_page_1.png
+- numpy_notes_page_2.png
+- numpy_notes_page_3.png
+
+Currently available:
+
 - `numpy_notes_page_1.png`
 
 ---
