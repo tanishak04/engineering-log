@@ -9,56 +9,64 @@ A collection of my engineering practice, Jupyter notebooks, and handwritten note
 ```text
 engineering-log/
 ├── README.md
-├── np1.ipynb
-├── np2.ipynb
-├── np3.ipynb
-├── notes/
-│   ├── numpy_notes_page_1.png
-│   ├── numpy_notes_page_2.png
-│   └── numpy_notes_page_3.png
+├── notebooks/
+│   ├── np1.ipynb
+│   ├── np2.ipynb
+│   └── np3.ipynb
+└── notes/
+    ├── numpy_notes_page_1.png
+    ├── numpy_notes_page_2.png
+    ├── numpy_notes_page_3.png
+    └── numpy_notes_page_4.png
 ```
 
 ---
 
 ## 📚 Topics Covered
 
-- Python Programming
-- NumPy Fundamentals
+### Python
+- Python Fundamentals
+
+### NumPy
 - Array Creation
+- Array Attributes
 - Array Operations
-- Jupyter Notebook
+- Practice Exercises
 
 ---
 
 ## 📓 Notebooks
 
+All Jupyter notebooks are organized inside the **`notebooks/`** directory.
+
 | Notebook | Description | Status |
 |----------|-------------|--------|
-| `np1.ipynb` | NumPy practice and experiments | ✅ |
+| `np1.ipynb` | NumPy fundamentals and practice | ✅ |
 | `np2.ipynb` | Additional NumPy concepts and exercises | ✅ |
-| `np3.ipynb` | Continued NumPy practice | ✅ |
+| `np3.ipynb` | Continued NumPy learning and practice | ✅ |
 
 ---
 
 ## 📝 Notes
 
-The `notes/` folder contains handwritten notes related to the notebooks.
+The **`notes/`** folder contains handwritten notes corresponding to the notebooks.
 
 Currently available:
 
 - `numpy_notes_page_1.png`
 - `numpy_notes_page_2.png`
 - `numpy_notes_page_3.png`
+- `numpy_notes_page_4.png`
 
 ---
 
 ## 🎯 Learning Goals
 
 - Master Python programming
-- Build a strong foundation in NumPy
-- Develop problem-solving skills
-- Prepare for Machine Learning
-- Maintain a consistent engineering learning log on GitHub
+- Develop strong NumPy skills
+- Build a solid foundation for Machine Learning
+- Practice coding consistently
+- Maintain a public engineering learning log
 
 ---
 
@@ -69,6 +77,7 @@ Currently available:
 
 ### NumPy
 - [x] Array Creation
+- [x] Array Attributes
 - [x] Array Operations
 - [x] Practice Exercises
 - [ ] Array Indexing
@@ -80,11 +89,12 @@ Currently available:
 - [ ] Linear Algebra
 - [ ] Random Module
 
-### Next Topics
+### Upcoming
 - [ ] Pandas
 - [ ] Matplotlib
 - [ ] Seaborn
 - [ ] Scikit-learn
+- [ ] Machine Learning
 
 ---
 
@@ -98,20 +108,36 @@ Currently available:
 
 ---
 
-## 🚀 Repository Purpose
+## 🚀 Purpose
 
-This repository serves as my daily engineering log, where I document:
+This repository serves as my engineering learning log where I document:
+
 - Programming practice
-- Notebook exercises
+- Jupyter notebooks
 - Handwritten notes
 - Learning progress
-- Continuous improvement
+- Daily GitHub contributions
+
+---
+
+## 📌 Repository Status
+
+**Current Version:** `v0.6`
+
+### Latest Updates
+- ✅ Added `np3.ipynb`
+- ✅ Added NumPy notes pages 2–4
+- ✅ Reorganized notebooks into a dedicated `notebooks/` directory
+- ✅ Improved repository documentation
 
 ---
 
 ## 👨‍💻 Author
 
 **Tanishak**
+
+B.Tech CSE (AI & ML)  
+Aspiring AI/ML Engineer
 
 ---
 
